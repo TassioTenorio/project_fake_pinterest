@@ -1,5 +1,6 @@
 # Site fake Pinterest
-![fakepintest](img/banner3.png)
+<img style="width:600px" src="img/banner2.png">
+
 
 
 This project is a clone of the Pinterest website,
