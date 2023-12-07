@@ -28,15 +28,15 @@ created by Tassio Tenorio using Python, Html, CSS and JavaScript.
 
 ![Login screen ](img/registration%20screen.png)
 
-![Registration screen](img/Tela-de-cadastro.png)
+![Registration screen](img/registration_screen.png)
 
-![choose file screen](img/tela%20de%20escolha%20de%20arquivo.png)
-
-
-![send file](img/tela%20de%20envio.png)
+![choose file screen](img/profile_screen.png)
 
 
-![profile images](/project_fake_pinterest/img/imagens%20no%20perfil.png)
+![send file](img/send_screen.png)
+
+
+![profile images](img/images.png)
 
 
 ## How to run this project?
