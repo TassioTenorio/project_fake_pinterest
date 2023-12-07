@@ -25,23 +25,19 @@ created by Tassio Tenorio using Python, Html, CSS and JavaScript.
 
 ## Layout
 
-![Login screen ](/fake_printerest_site/img/registration%20screen.png)
+![Login screen ](/project_fake_pinterest/img/registration%20screen.png)
 
-![Registration screen](/fake_printerest_site/img/Tela-de-cadastro.png)
+![Registration screen](/project_fake_pinterest/img/Tela-de-cadastro.png)
 
-![choose file screen](/fake_printerest_site/img/tela%20de%20escolha%20de%20arquivo.png)
+![choose file screen](/project_fake_pinterest/img/tela%20de%20escolha%20de%20arquivo.png)
 
 
-![send file](/fake_printerest_site/img/tela%20de%20envio.png)
+![send file](/project_fake_pinterest/img/tela%20de%20envio.png)
 libs
 
 
-![profile images](/fake_printerest_site/img/imagens%20no%20perfil.png)
+![profile images](/project_fake_pinterest/img/imagens%20no%20perfil.png)
 
-
-## Demonstration
-
-[link demonstration]( link )
 
 ## How to run this project?
 
@@ -68,12 +64,12 @@ $ Enter Ctrl + click in your terminal to see in Browser
 ```
 
 ## Technologies used
-[Python](https://www.python.org/)
-[Flask](https://flask.palletsprojects.com/en/3.0.x/)
-[Html](https://www.w3schools.com/html/)
-[JavaScript - documentation](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[JavaScript - site](https://www.javascript.com/)
-[Css](https://www.w3schools.com/cssref/index.php)
+1. [Python](https://www.python.org/)
+2. [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+3. [Html](https://www.w3schools.com/html/)
+4. [JavaScript - documentation](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+5. [JavaScript - site](https://www.javascript.com/)
+6. [Css](https://www.w3schools.com/cssref/index.php)
 
 
 # Authors
