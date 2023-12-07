@@ -26,15 +26,14 @@ created by Tassio Tenorio using Python, Html, CSS and JavaScript.
 
 ## Layout
 
-![Login screen ](/project_fake_pinterest/img/registration%20screen.png)
+![Login screen ](img/registration%20screen.png)
 
-![Registration screen](/project_fake_pinterest/img/Tela-de-cadastro.png)
+![Registration screen](img/Tela-de-cadastro.png)
 
-![choose file screen](/project_fake_pinterest/img/tela%20de%20escolha%20de%20arquivo.png)
+![choose file screen](img/tela%20de%20escolha%20de%20arquivo.png)
 
 
-![send file](/project_fake_pinterest/img/tela%20de%20envio.png)
-libs
+![send file](img/tela%20de%20envio.png)
 
 
 ![profile images](/project_fake_pinterest/img/imagens%20no%20perfil.png)
