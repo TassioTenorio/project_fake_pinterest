@@ -1,5 +1,5 @@
 # Site fake Pinterest
-![fakepintest](/fake_printerest_site/img/banner3.png)
+![fakepintest](img/banner3.png)
 
 
 This project is a clone of the Pinterest website,
