@@ -66,6 +66,7 @@ pickleshare==0.7.5
 Pillow==10.0.0
 platformdirs==3.11.0
 prompt-toolkit==3.0.39
+psycopg2
 psutil==5.9.6
 pure-eval==0.2.2
 pycodestyle==2.11.0
